@@ -283,7 +283,7 @@ goog.require('Blockly.Msg');
 /** @export */ Blockly.Msg.MATH_TRIG_TOOLTIP_TAN = "Returner tangenten av en vinkel (ikke radian).";
 /** @export */ Blockly.Msg.NEW_VARIABLE = "Opprett variabel…";
 /** @export */ Blockly.Msg.NEW_VARIABLE_TITLE = "Nytt variabelnavn:";
-/** @export */ Blockly.Msg.ORDINAL_NUMBER_SUFFIX = "";
+/** @export */ Blockly.Msg.ORDINAL_NUMBER_SUFFIX = "";  // untranslated
 /** @export */ Blockly.Msg.PROCEDURES_ALLOW_STATEMENTS = "tillat uttalelser";
 /** @export */ Blockly.Msg.PROCEDURES_BEFORE_PARAMS = "med:";
 /** @export */ Blockly.Msg.PROCEDURES_CALLNORETURN_HELPURL = "https://en.wikipedia.org/wiki/Subroutine";
